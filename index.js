@@ -3,7 +3,7 @@ const client = new discord.Client()
 const rpc = require("discordrpcgenerator");
 
 client.on("ready", () => {
- rpc.getRpcImage(process.env.ApplicationID, process.env.ImageName).then(large => {
+ rpc.getRpcImage(process.env.ApplicationId, process.env.ImageName).then(large => {
 
       
           let presence = new rpc.Rpc()

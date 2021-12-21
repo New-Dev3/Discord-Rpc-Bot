@@ -9,36 +9,36 @@
             "required": true
         },
         "Name": {
-            "description": "Genshin Impact",
-            "required": true
+            "description": "Please Enter Your Rpc Name",
+            "required": "Genshin Impact"
         },
         "Url": {
-            "description": "https://github.com/MoeZilla/Discord-Rpc-Bot",
-            "required": true
+            "description": "Please Enter Your Rpc Url",
+            "required": "https://github.com/MoeZilla/Discord-Rpc-Bot"
         },
         "Type": {
-            "description": "PLAYING",
-            "required": true
+            "description": "Please Enter Type Rpc",
+            "required": "PLAYING"
         },
         "ApplicationId": {
-            "description": "922189881696985108",
-            "required": true
+            "description": "Please Enter Your Discord Application Client Id",
+            "required": "922189881696985108"
         },
         "State": {
-            "description": "Masquerade of the Guilty",
-            "required": true
+            "description": "Please Enter Your Rpc State",
+            "required": "Masquerade of the Guilty"
         },
         "Details": {
-            "description": "Playing Genshin",
-            "required": true
+            "description": "Please Enter Your Rpc Details",
+            "required": "Playing Genshin"
         },
         "ImageName": {
-            "description": "20211220_000956",
-            "required": true
+            "description": "Please Enter Your Image Id",
+            "required": "20211220_000956"
         },
         "ImageSmall": {
-            "description": "20211220_000956",
-            "required": true
+            "description": "Please Enter Your Image Id",
+            "required": "20211220_000956"
         }
     },
     "addons": [

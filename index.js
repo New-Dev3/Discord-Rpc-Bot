@@ -10,7 +10,7 @@ client.on("ready", () => {
              .setName(process.env.Name)
               .setUrl(process.env.Url)
               .setType(process.env.Type)
-              .setApplicationId(process.env.setApplicationId)
+              .setApplicationId(process.env.ApplicationId)
             
               
              .setState(process.env.State)

@@ -1,0 +1,49 @@
+{
+    "name": "Discord-Rpc-Bot",
+    "description": "Discord Fake Rpc Profile",
+    "logo": "https://telegra.ph/file/666df3028dd2457ecf8d3.jpg",
+    "repository": "https://github.com/MoeZilla/Discord-Rpc-Bot",
+    "env": {
+        "TOKEN": {
+            "description": "Please Enter Your Discord self Token",
+            "required": true
+        },
+        "Name": {
+            "description": "Genshin Impact",
+            "required": true
+        },
+        "Url": {
+            "description": "https://github.com/MoeZilla/Discord-Rpc-Bot",
+            "required": true
+        },
+        "Type": {
+            "description": "PLAYING",
+            "required": true
+        },
+        "ApplicationId": {
+            "description": "922189881696985108",
+            "required": true
+        },
+        "State": {
+            "description": "Masquerade of the Guilty",
+            "required": true
+        },
+        "Details": {
+            "description": "Playing Genshin",
+            "required": true
+        },
+        "ImageName": {
+            "description": "20211220_000956",
+            "required": true
+        },
+        "ImageSmall": {
+            "description": "20211220_000956",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}

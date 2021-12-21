@@ -1,5 +1,5 @@
 ### Discord-Selfbot-RPC
-![Screenshot](screenshot.png)
+![Screenshot](20211221_120250.jpg)
 
 ### Features:
 

@@ -2,7 +2,7 @@
     "name": "Discord-Rpc-Bot",
     "description": "Discord Fake Rpc Profile",
     "logo": "https://telegra.ph/file/666df3028dd2457ecf8d3.jpg",
-    "repository": "https://github.com/MoeZilla/Discord-Rpc-Bot",
+    "repository": "https://github.com/New-Dev3/Discord-Rpc-Bot",
     "env": {
         "TOKEN": {
             "description": "Please Enter Your Discord self Token",
@@ -10,11 +10,11 @@
         },
         "Name": {
             "description": "Please Enter Your Rpc Name",
-            "value": "Genshin Impact"
+            "value": "Official Gamer"
         },
         "Url": {
             "description": "Please Enter Your Rpc Url",
-            "value": "https://github.com/MoeZilla/Discord-Rpc-Bot"
+            "value": "https://github.com/New-Dev3/Discord-Rpc-Bot"
         },
         "Type": {
             "description": "Please Enter Type Rpc",

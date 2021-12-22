@@ -10,7 +10,7 @@
         },
         "Name": {
             "description": "Please Enter Your Rpc Name",
-            "value": "Official Gamer"
+            "value": "Discord-ChatBot"
         },
         "Url": {
             "description": "Please Enter Your Rpc Url",
